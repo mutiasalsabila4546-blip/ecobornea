@@ -1,0 +1,6 @@
+{
+  "name": "ECO BORNEA — EcoTourism Kit Borneo",
+  "description": "Inovasi EcoTourism Kit berbasis budaya Dayak dan teknologi konservasi Kalimantan dengan rute ramah lingkungan, pemindai kit QR, dan direktori UMKM adat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
